@@ -1,4 +1,6 @@
 # Guardian Wheels: Smart Vehicle Security & Alert System (Using GSM/LTE (A7670C) Module, Mobile App and Arduino)
+Contributors:
+[![GitHub](https://img.shields.io/badge/GitHub-VarunKKumar-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarunKKumar)
 
 ## ABSTRACT
   This project offers a straightforward but efficient way to stop **unwanted access to a vehicle** by **notifying the owner** promptly as the attempt is detected. 
