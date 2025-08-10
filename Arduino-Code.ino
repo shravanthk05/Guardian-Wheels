@@ -67,9 +67,9 @@ void loop()
     if (state == 0 && bval == 0) 
       {
         // If button is pressed and state is 0, send SMS and make a call using the GSM module
-        sendSMS("+919840473695", "THEFT ALERT!");
+        sendSMS("+123456789", "THEFT ALERT!");
         // Make a call
-        SIM7670Serial.println("ATD +919840473695;"); // Replace +123456789 with the desired phone number
+        SIM7670Serial.println("ATD +123456789;"); // Replace +123456789 with the desired phone number
         delay(1000);
         if (SIM7670Serial.available()) 
           {
